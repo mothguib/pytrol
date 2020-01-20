@@ -1,7 +1,7 @@
 PyTrol
 ------
 
-*PyTrol* is a discrete-time simulator dedicated to MAP, designed as
+*PyTrol* is a discrete-time simulator dedicated to MultiAgent Patrolling (MAP), designed as
 a Python framework with the aim of performing MAP simulation.
 Originally, this simulator has been developed for the purpose of
 generating merely and rapidly a significant amount of MAP data, for the
