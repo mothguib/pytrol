@@ -1,7 +1,7 @@
 PyTrol
 ------
 
-*PyTrol*[^1] is a discrete-time simulator dedicated to MAP, designed as
+*PyTrol* is a discrete-time simulator dedicated to MAP, designed as
 a Python framework with the aim of performing MAP simulation.
 Originally, this simulator has been developed for the purpose of
 generating merely and rapidly a significant amount of MAP data, for the
@@ -141,7 +141,7 @@ distances and paths between the nodes.
 
 ### `pytrol.control.Ananke`
 
-The `pytrol.control.Ananke.Ananke`[^2] class is the core of PyTrol, i.e.
+The `pytrol.control.Ananke.Ananke`[^1] class is the core of PyTrol, i.e.
 the structure which concretely handles the simulation running. It is
 also a *communicating*.
 
@@ -165,8 +165,6 @@ as stated above, the positions, individual idlenesses of each agent, and
 true idlenesses. Complementary MAP elements or events to log might be
 added.
 
-[^1]: https://github.com/mothguib/pytrol
-
-[^2]: *Ananke* is an ancient Greek goddess who was the personification
+[^1]: *Ananke* is an ancient Greek goddess who was the personification
     of inevitability, compulsion and necessity, and in other terms, of
     what must happen.
